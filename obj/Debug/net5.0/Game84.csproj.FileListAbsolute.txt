@@ -1,0 +1,16 @@
+C:\Users\MoFang\source\repos\Game84\Game84\bin\Debug\net5.0\Game84.exe
+C:\Users\MoFang\source\repos\Game84\Game84\bin\Debug\net5.0\Game84.deps.json
+C:\Users\MoFang\source\repos\Game84\Game84\bin\Debug\net5.0\Game84.runtimeconfig.json
+C:\Users\MoFang\source\repos\Game84\Game84\bin\Debug\net5.0\Game84.runtimeconfig.dev.json
+C:\Users\MoFang\source\repos\Game84\Game84\bin\Debug\net5.0\Game84.dll
+C:\Users\MoFang\source\repos\Game84\Game84\bin\Debug\net5.0\ref\Game84.dll
+C:\Users\MoFang\source\repos\Game84\Game84\bin\Debug\net5.0\Game84.pdb
+C:\Users\MoFang\source\repos\Game84\Game84\obj\Debug\net5.0\Game84.csproj.AssemblyReference.cache
+C:\Users\MoFang\source\repos\Game84\Game84\obj\Debug\net5.0\Game84.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MoFang\source\repos\Game84\Game84\obj\Debug\net5.0\Game84.AssemblyInfoInputs.cache
+C:\Users\MoFang\source\repos\Game84\Game84\obj\Debug\net5.0\Game84.AssemblyInfo.cs
+C:\Users\MoFang\source\repos\Game84\Game84\obj\Debug\net5.0\Game84.csproj.CoreCompileInputs.cache
+C:\Users\MoFang\source\repos\Game84\Game84\obj\Debug\net5.0\Game84.dll
+C:\Users\MoFang\source\repos\Game84\Game84\obj\Debug\net5.0\ref\Game84.dll
+C:\Users\MoFang\source\repos\Game84\Game84\obj\Debug\net5.0\Game84.pdb
+C:\Users\MoFang\source\repos\Game84\Game84\obj\Debug\net5.0\Game84.genruntimeconfig.cache
